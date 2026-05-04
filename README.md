@@ -1,18 +1,16 @@
-# 📄 User Data Fetch & CRUD Operations Project
+# 📄 User Data Fetch Project
 
 ##  Overview
 This project demonstrates how to:
 - Fetch user data from a public API
 - Display the data on a responsive frontend UI
-- Perform full CRUD (Create, Read, Update, Delete) operations using MockAPI
-
-Built using **HTML, CSS, and JavaScript**, following clean code practices and reusable functions.
+- Built using **HTML, CSS, and JavaScript**, following clean code practices and reusable functions.
 
 ---
 
 ## Features
 
-### 🔹 Task 15.1: Fetch & Display API Data
+### Fetch & Display API Data
 - Fetch user data using `fetch()`
 - Display users dynamically on the UI
 - Responsive design using CSS Grid
