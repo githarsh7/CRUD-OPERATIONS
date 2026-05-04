@@ -22,5 +22,3 @@ This project demonstrates how to:
 
 ⭐ Feel free to fork this project and improve it!
 ---
-
-## 📁 Project Structure
