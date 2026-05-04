@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#userContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+}
+
+.user-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 10px;
+  background: #f9f9f9;
+  transition: background 0.3s ease;
+}
+.user-card:hover {
+  background: #e9e9e9;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
+}
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+}
