@@ -16,8 +16,7 @@ Built using **HTML, CSS, and JavaScript**, following clean code practices and re
 - Fetch user data using `fetch()`
 - Display users dynamically on the UI
 - Responsive design using CSS Grid
-- Console logging for debugging
-- 
+- Console logging for debugging 
 
 ## Connect with Me 🤝 :
 - LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
